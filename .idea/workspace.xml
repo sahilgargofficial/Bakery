@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05534a97-8daa-44dd-b82e-8769d728406e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about-img-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/about-img-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef-1-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chef-1-min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef-2-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chef-2-min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef-3-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chef-3-min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header-bg-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/header-bg-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-item-1-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu-item-1-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-item-2-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu-item-2-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-item-3-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu-item-3-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-item-4-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu-item-4-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-item-5-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu-item-5-min.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu-item-6-min.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/menu-item-6-min.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594023602353</updated>
-      <workItem from="1594023603577" duration="31937000" />
+      <workItem from="1594023603577" duration="32892000" />
+      <workItem from="1594145911096" duration="256000" />
     </task>
     <servers />
   </component>
